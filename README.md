@@ -58,6 +58,3 @@ Consulta el [Google Drive con evidencias](#) para:
 
 Proyecto académico sin fines de lucro. Uso libre para investigación y mejora personal. ¡Contribuciones bienvenidas!
 
----
-
-👨‍💻 Desarrollado por [Tu Nombre] como parte del curso de [Nombre del Curso] – [Institución] – [Año].
