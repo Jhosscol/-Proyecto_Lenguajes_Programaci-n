@@ -6,7 +6,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 class ScrapingRepository {
-    private val apiKey = "1f1447c0b2f1ec8804fd12344a9ce5be5e1f477dd35cbcbef96b2a4eca5132dd" // ⚠️ Reemplaza con tu API key real
+    private val apiKey = "Api Key" // ⚠️ Reemplaza con tu API key real
 
     private val serpApiService: SerpApiService by lazy {
         val logging = HttpLoggingInterceptor()
