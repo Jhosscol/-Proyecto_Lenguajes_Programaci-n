@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_ordenamiento">
+        <item>Precio: menor a mayor</item>
+        <item>Precio: mayor a menor</item>
+        <item>Nombre: A-Z</item>
+        <item>Nombre: Z-A</item>
+    </string-array>
+</resources>

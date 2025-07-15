@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="opciones_orden">
+        <item>Precio ascendente</item>
+        <item>Precio descendente</item>
+    </string-array>
+    <string name="app_name">Comparador de Precios</string>
+    <string name="buscar_hint">Ej: iPhone 15 Pro</string>
+    <string name="buscar_productos">🔍 Buscar Productos</string>
+    <string name="analizar_producto">📊 Analizar</string>
+    <string name="ver_oportunidades">🎯 Ver Oportunidades</string>
+    <string name="solo_disponibles">Solo disponibles</string>
+    <string name="guardar_bd">Guardar en BD</string>
+    <string name="ordenar_por">Ordenar por:</string>
+    <string name="resultados_busqueda">📊 Resultados de Búsqueda</string>
+    <string name="analisis_predictivo">📈 Análisis Predictivo</string>
+    <string name="mensaje_inicial_resultados">Ingresa un producto para comenzar la búsqueda...</string>
+    <string name="mensaje_inicial_analisis">Utiliza el botón \'Analizar\' para obtener predicciones de precios...</string>
+</resources>
+
