@@ -49,10 +49,8 @@ private val apiKey = "TU_API_KEY_AQUI"
 
 ## 📸 Capturas y Evidencias
 
-Consulta el [Google Drive con evidencias](#) para:
+Consulta el Vista Previa de la app para:
 - Screenshots de la app
-- Videos de prueba de alertas
-- APK para testeo
 
 ## 📄 Licencia
 
